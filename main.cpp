@@ -6,7 +6,7 @@ void setup() {
   Serial.begin(115200);
 
   // print some text to the USB port
-  Serial.println("\n\nAuthor: Kevin Sar");
+  Serial.println("\n\nAuthor: Kevin Sar - 000390567");
   Serial.print("ESP8266 Chip ID: ");
   Serial.println(ESP.getChipId());
   Serial.print("Flash Chip ID: ");
